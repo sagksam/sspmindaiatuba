@@ -1,0 +1,23 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  padding: 0;
+  margin: 0;
+}
+
+html, body {height:100%}
+
+.slideshow{
+    
+    width: 400px;
+    float:top;
+    padding-right: 25px;
+    padding-bottom: 10px;
+}
+
+.slideshow img{
+    
+    width: 100%;
+}

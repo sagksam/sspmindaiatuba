@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css?family=Patua+One');
+
+*  {
+	margin:0;
+	padding:0;
+}
+
+html, body {height:100%;}
+
+body{       
+  margin: 0;
+  padding: 0;
+  height: 100%
+}
+
+.rodape {
+    left: 0;
+    bottom: 0;
+    height: 100px;
+    width: 100%;
+    background: #0033cc;
+    color: #c6bec0;
+    position: absolute;
+}
+
+.rodape ul{
+    
+    color: #fff;
+    list-style: none;
+    background-color: #0033cc;
+    text-align: center;
+    padding: 0;
+    margin: 0;
+}
+
+.rodape p {
+    color: #fff;
+    background-color: #0033cc;
+    font-family: 'Patua One', cursive;
+    text-align: center;
+    padding: 0;
+    margin: 0;
+    color: #c6bec0;       
+}
+
+.rodape a {
+    font-family: 'Patua One', cursive;
+    text-decoration: none;
+    color: #c6bec0; 
+}
+
+.rodape img {
+    
+    padding: 0;
+    margin: 0;
+}

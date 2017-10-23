@@ -1,0 +1,62 @@
+@charset "UTF-8";
+@import url('https://fonts.googleapis.com/css?family=PT+Sans+Narrow');
+@import url(http://fonts.googleapis.com/css?family=Source+Serif+Pro);
+
+html, body {height:100%;}
+
+body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  min-height: 100%;
+}
+
+#wrapper{
+    
+    min-height:100%;
+    position:relative;
+}
+
+#content{
+    padding-bottom:100px;
+}
+
+
+article {
+    
+    width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+}
+article h1{
+    
+    font-size: 40pt;
+    font-family: 'PT Sans Narrow', sans-serif;
+    margin-bottom: 0;
+    
+}
+
+article h2{
+    
+    font-family: 'PT Sans Narrow', sans-serif;
+    margin-bottom: 0;
+}
+
+.image-wrapper{
+    
+    width: 200px;
+    float: left;
+    padding-right: 25px;
+    padding-bottom: 10px;
+}
+
+.image-wrapper img{
+    
+    width: 100%;
+}
+
+article p {
+    
+   font-family: 'Source Serif Pro', serif;
+   font-size: 15pt;
+}
